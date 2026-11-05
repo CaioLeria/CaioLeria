@@ -1,4 +1,4 @@
-# Oi, eu sou o Caio 👋
+# Oi, eu sou o Caio
 
 Estudante de Sistemas de Informação na FIAP e estagiário de desenvolvimento na **Taqtile**, onde construo software com **agentes de IA** e também desenvolvo apps **iOS**. Vim de 6 anos na gastronomia, e levo dessa vivência a visão de operação, de equipe e de usuário para o que desenvolvo.
 
